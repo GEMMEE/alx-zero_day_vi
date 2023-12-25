@@ -46,6 +46,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * Read [Basic Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 * Watch `Vim Tutorial` by [Ben Awad](https://www.youtube.com/watch?v=IiwGbcd8S7I)
 * Watch `The vi text editor - basic intro` by [BlueMonkey 4n6](https://www.youtube.com/watch?v=KtTjamPKMhw)
+* Fun to watch `Interview with a VIM Enthusiast` by [Programmers are also human](https://www.youtube.com/watch?v=9n1dtmzqnCU)
 
 ---
 **Author**: Gamachu AD
